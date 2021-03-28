@@ -1,0 +1,13 @@
+
+.col {
+    height: 100%;
+    float: left;
+}
+
+.tool {
+    width: 65%;
+}
+
+.view {
+    width: 35%;
+}
